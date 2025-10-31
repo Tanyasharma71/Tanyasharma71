@@ -25,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyasharma71&show_icons=true&locale=en" alt="tanyasharma71" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyasharma71&" alt="tanyasharma71" /></p>
+[![An image of @taniyasharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taniyasharma)](https://holopin.io/@taniyasharma)
