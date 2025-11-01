@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Peacebot AI**
-
 - 📫 How to reach me **tamsharma1010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
