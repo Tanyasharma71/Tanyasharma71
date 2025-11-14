@@ -16,7 +16,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,git,linux,vscode&theme=light" />
 </p>
 
-## 💫 Aesthetic GitHub Stats  
+## 💫 GitHub Stats  
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Tanyasharma71&show_icons=true&theme=rose_pine&hide_border=true" />
@@ -54,7 +54,7 @@ A pastel-themed personal portfolio website.
 </a>
 </p>
 
-## 💗 Aesthetic Badges  
+## 💗 Badges  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tanyasharma71&label=Profile+Views&color=F4A5C2&style=flat" />
