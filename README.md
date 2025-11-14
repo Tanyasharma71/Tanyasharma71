@@ -1,26 +1,39 @@
-<h1 align="center">Hi 👋, I'm Taniya sharma</h1>
-<h3 align="center">💡 I’m passionate about learning new technologies and turning creative ideas into real-world projects.</h3>
+<h1 align="center">Hi 👋, I'm Tanya Sharma</h1>
+<h3 align="center">Aspiring Developer | Open Source Learner | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanyasharma71&label=Profile%20views&color=0e75b6&style=flat" alt="tanyasharma71" /> </p>
+### 🔥 About Me  
+- 🌱 Currently learning **C, C++, Python, HTML & Git/GitHub**  
+- 💻 Exploring **Open Source** and improving through real-world contributions  
+- 🚀 Passionate about solving problems and building beginner-friendly projects  
+- 🎯 Goal: Become a skilled developer and grow in open-source communities  
+- 🤝 Open to collaborating on projects that help me learn and contribute  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanyasharma71" alt="tanyasharma71" /></a> </p>
+### 🛠️ Tech Stack  
+**Languages:**  
+C | C++ | Python | HTML | CSS  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+**Tools & Platforms:**  
+Git | GitHub | VS Code | Linux | GitHub Issues / PRs  
 
-- 🌱 I’m currently learning **Javascript**
-
-- 📫 How to reach me **tamsharma1010@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 📈 GitHub Stats  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tanyasharma71&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyasharma71&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🎖️ Holopin Badges  
+<p align="center">
+<a href="https://holopin.io/@taniyasharma">
+<img src="https://holopin.me/taniyasharma" width="300px">
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanyasharma71&show_icons=true&locale=en&layout=compact" alt="tanyasharma71" /></p>
+### 🌐 Connect With Me  
+📧 Email: **tamsharma1010@gmail.com**  
+🧑‍💻 GitHub: **github.com/Tanyasharma71**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanyasharma71&show_icons=true&locale=en" alt="tanyasharma71" /></p>
+### ❤️ Support My Work  
+If you like my journey and projects, consider supporting me!  
+**Sponsor button coming soon.**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanyasharma71&" alt="tanyasharma71" /></p>
-[![An image of @taniyasharma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/taniyasharma)](https://holopin.io/@taniyasharma)
+⭐ **“Every expert was once a beginner — and I’m coding my way up, one commit at a time.”**
