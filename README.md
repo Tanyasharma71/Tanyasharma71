@@ -21,7 +21,7 @@
 ## 🌸 ~ About Me ~ 🌸
 
 </div>
-```yaml
+```
 Name     : Tanya Sharma
 Role     : Aspiring Developer & Open Source Learner
 Learning : C  •  C++  •  Python  •  HTML/CSS  •  Git & GitHub
