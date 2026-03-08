@@ -21,14 +21,14 @@
 ## 🌸 ~ About Me ~ 🌸
 
 </div>
-```
-Name     : Tanya Sharma
-Role     : Aspiring Developer & Open Source Learner
-Learning : C  •  C++  •  Python  •  HTML/CSS  •  Git & GitHub
-Passion  : Clean UI  •  Aesthetic Setups  •  Real-World Projects
-Dream    : Build meaningful software & grow as a developer 💕
-Status   : Always learning, always growing ✨
-` ` `
+
+🌷Name     : Tanya Sharma
+🌷Role     : Aspiring Developer & Open Source Learner
+🌷Learning : C  •  C++  •  Python  •  HTML/CSS  •  Git & GitHub
+🌷Passion  : Clean UI  •  Aesthetic Setups  •  Real-World Projects
+🌷Dream    : Build meaningful software & grow as a developer 💕
+🌷Status   : Always learning, always growing ✨
+
 
 <div align="center">
 
