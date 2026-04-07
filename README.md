@@ -22,7 +22,7 @@
 
 <a href="https://holopin.io/@taniyasharma"> 
  < img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmh2twp2l003ul204w7m36iro"/>
-<img src="https://holopin-badge.vercel.app/?user=taniyasharma&repo=supercontributor" width="230px"/>
+<img src="https://www.holopin.io/hacktoberfest2025/userbadge/cmh2twp2l003ul204w7m36iro " width="230px"/>
 </a>
 
 </div>
