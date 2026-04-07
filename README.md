@@ -18,11 +18,11 @@
 
 <div align="center">
 
-# 🏆 Hacktoberfest Achievement
+# 🏆 Hacktoberfest 2025 – Super Contributor
 
-<img src="https://assets.holopin.io/hf2025levels/cmh2twp2l003ul204w7m36iro.png" width="230px"/>
-
-⭐ **Hacktoberfest 2025 – Super Contributor**
+<a href="https://holopin.io/@taniyasharma">
+<img src="https://holopin-badge.vercel.app/?user=taniyasharma&repo=supercontributor" width="230px"/>
+</a>
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align="center">
 
-# 🎖️ Holopin Badge Board
+## 🎖️ Holopin Badge Board
 
 <a href="https://holopin.io/@taniyasharma">
 <img src="https://holopin.me/taniyasharma" width="750px"/>
@@ -54,30 +54,26 @@
 
 📚 **Currently Learning**
 
-• C  
-• C++  
-• Python  
-• HTML / CSS  
-• Git & GitHub  
-• **Agentic AI**
+- C / C++ / Python  
+- HTML / CSS  
+- Git & GitHub  
+- Agentic AI
 
 🧠 **AI Technologies Exploring**
 
-• **Natural Language Processing (NLP)**  
-• **Vector Databases**  
-• **LangChain**  
-• **AI Agents & Multi-Agent Systems**
+- Natural Language Processing (NLP)  
+- Vector Databases  
+- LangChain  
+- AI Agents & Multi-Agent Systems
 
 🎨 **Interests**
 
-• Aesthetic coding setups  
-• Clean UI design  
-• AI projects  
-• Open source collaboration  
+- Aesthetic coding setups  
+- Clean UI design  
+- AI projects  
+- Open source collaboration  
 
-🌱 **Goal**
-
-Build meaningful AI systems and grow as a developer.
+🌱 **Goal:** Build meaningful AI systems and grow as a developer.
 
 ---
 
