@@ -29,7 +29,7 @@ currently exploring <b>AI, coding, and open source</b> one step at a time 🌱
 ### ⚡ what i'm doing right now
 
 - learning **python + web basics**
-- building **peacebot AI (mental health chatbot)**
+- building **AI AGENTS**
 - contributing to **open source**
 - exploring **agentic AI (this stuff is actually cool 👀)**
 
@@ -74,31 +74,6 @@ currently exploring <b>AI, coding, and open source</b> one step at a time 🌱
 </div>
 
 <img align="right" height="170" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
-
-🌼 **Name:** Tanya Sharma  
-
-💻 **Role:** Aspiring AI & Software Developer  
-
-📚 **Currently Learning**
-
-- C / C++ / Python  
-- HTML / CSS  
-- Git & GitHub  
-- Agentic AI
-
-🧠 **AI Technologies Exploring**
-
-- Natural Language Processing (NLP)  
-- Vector Databases  
-- LangChain  
-- AI Agents & Multi-Agent Systems
-
-🎨 **Interests**
-
-- Aesthetic coding setups  
-- Clean UI design  
-- AI projects  
-- Open source collaboration  
 
 🌱 **Goal:** Build meaningful AI systems and grow as a developer.
 
