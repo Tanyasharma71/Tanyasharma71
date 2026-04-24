@@ -2,6 +2,11 @@
 
 <!-- Soft Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Tanya%20Sharma%20🌸&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Tanyasharma71&label=🌸+profile+visits&color=e8a4c8&style=flat" />
+
+</div>
 
 </div>
 
