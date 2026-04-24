@@ -1,19 +1,45 @@
 <div align="center">
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Tanyasharma71&label=✨+Profile+Views&color=e8a4c8&style=for-the-badge&labelColor=fce4ec" />
-
-<br/><br/>
-
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=36&duration=3000&pause=800&color=E991B8&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Tanya+Sharma+🌸;Aspiring+AI+Developer+💻;Exploring+Agentic+AI+🌿;Open+Source+Explorer+✨" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24&height=120&section=header&text=&fontSize=0&animation=fadeIn" width="100%"/>
+<!-- Soft Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Tanya%20Sharma%20🌸&fontAlign=50&fontAlignY=35&color=gradient&animation=fadeIn" width="100%"/>
 
 </div>
 
+---
+
+<h2 align="center">hey there 👋</h2>
+
+<p align="center">
+i'm tanya — someone who enjoys turning ideas into small, meaningful tech projects ✨  
+currently exploring <b>AI, coding, and open source</b> one step at a time 🌱  
+</p>
+
+---
+
+### 🌸 a little about me
+
+- 💻 figuring out **AI + development** (still learning, still building)
+- 🌿 exploring things like **NLP, agents & cool AI tools**
+- 🧠 trying to improve logic + coding every day  
+- 🎨 i like clean UI, aesthetic setups & organized code  
+- 🚀 slowly building projects that actually *help people*
+
+---
+
+### ⚡ what i'm doing right now
+
+- learning **python + web basics**
+- building **peacebot AI (mental health chatbot)**
+- contributing to **open source**
+- exploring **agentic AI (this stuff is actually cool 👀)**
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=24&duration=3000&pause=1000&color=E991B8&center=true&vCenter=true&width=500&lines=learning+every+day+🌱;building+step+by+step+💻;not+perfect+but+consistent+✨" />
+
+</div>
 ---
 
 <div align="center">
